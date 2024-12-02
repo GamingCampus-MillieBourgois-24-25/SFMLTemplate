@@ -571,5 +571,6 @@ imgui.ini
 # Engine files
 !include/
 !lib/
+!lib/*
 !Engine/bin/
 !Engine/bin/*
